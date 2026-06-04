@@ -263,7 +263,7 @@ The optimal threshold is chosen from the Precision-Recall curve based on the bus
 
 **Prasanna Chidambar Marihalkar**  
 B.Tech Computer Science — PES University, Bengaluru  
-Industrial Training — DecodeLabs Batch 2026
+
 
 - 🔗 GitHub: [github.com/YOUR_USERNAME](https://github.com/PrasannaMarihalkar)
 
